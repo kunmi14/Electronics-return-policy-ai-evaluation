@@ -1,0 +1,18 @@
+
+{
+    "name": "Electronics Return Policy QA",
+
+    "image": "mcr.microsoft.com/devcontainers/python:3-3.11-trixie",
+
+    "features": {
+        "ghcr.io/devcontainers/features/azure-cli:1": {}
+    }
+
+    // "forwardPorts": [],
+
+    // "postCreateCommand": "pip3 install --user -r requirements.txt",
+
+    // "customizations": {},
+
+    // "remoteUser": "root"
+}
