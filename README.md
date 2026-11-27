@@ -73,11 +73,11 @@ The evaluation results were published to Microsoft Azure AI Foundry for tracking
 
 ### AI-Assisted Evaluation Metrics
 
-![AI-Assisted Evaluation Results](screenshots/ai_assisted_metrics.png)
+![AI-Assisted Evaluation Results](Screenshots/ai_assisted_metrics.png)
 
 ### NLP Evaluation Metrics
 
-![NLP Evaluation Results](screenshots/nlp_metrics.png)
+![NLP Evaluation Results](Screenshots/nlp_metrics.png)
 
 **Note:** The ROUGE-1 pass rate is not reported in the available dashboard screenshots.
 
